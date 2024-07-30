@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789093554975",
+    "firebase_url": "https://navelitailor-firebase-default-rtdb.firebaseio.com",
+    "project_id": "navelitailor-firebase",
+    "storage_bucket": "navelitailor-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789093554975:android:58416876d52808ca476e2a",
+        "android_client_info": {
+          "package_name": "com.example.naveli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789093554975-csgtp268v6av95elvdqpdma9m0olen7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naveli",
+            "certificate_hash": "777d8267656b9112e521e5a42be8c8213b4f1ea1"
+          }
+        },
+        {
+          "client_id": "789093554975-2ti0k9pe3gf975avnn73ljmnd2l8qo8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdiReBgvP4FQJJptCOg8wZ0iN6M0795jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789093554975-2ti0k9pe3gf975avnn73ljmnd2l8qo8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
